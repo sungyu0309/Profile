@@ -1,0 +1,45 @@
+#grid1{
+  display: grid;
+  grid-template-columns: 110px 600px;
+  margin:15px 0px 0px 10px;
+}
+#grid2{
+  font-size: 13px;
+  padding: 15px;
+  margin-top: 15px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+#grid2 a{
+  padding-right: 30px;
+  color: black;
+  text-decoration: none;
+}
+.daum{
+  width:100px;
+}
+body{
+  margin: 0;
+}
+main{
+  width:700px;
+}
+input{
+  width:500px;
+  height:40px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
+  border:3px solid blueviolet;
+  border-radius: 10px;
+}
+article img{
+  width:300px
+}
+article{
+  border-radius: 10px;
+  border: 10px solid rgb(232, 247, 255);
+}
+
+
+
